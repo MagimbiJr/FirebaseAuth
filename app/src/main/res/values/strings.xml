@@ -3,4 +3,7 @@
     <string name="sign_up">Sign up</string>
     <string name="sign_in">Sign in</string>
     <string name="welcome_text">Welcome to this journey</string>
+    <string name="full_name_hint">Full name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
 </resources>

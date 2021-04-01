@@ -11,10 +11,11 @@
         android:theme="@style/Theme.FirebaseAuth">
         <activity
             android:name=".RegisterActivity"
-            android:exported="true"></activity>
+            android:theme="@style/RegActivitiesTheme"
+            android:exported="true" />
         <activity
             android:name=".LoginActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".WelcomeActivity"
             android:exported="true"
