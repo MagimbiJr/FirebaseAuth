@@ -6,4 +6,6 @@
     <string name="full_name_hint">Full name</string>
     <string name="email_hint">Email</string>
     <string name="password_hint">Password</string>
+    <string name="new_account">New Account</string>
+    <string name="confirm_password">Confirm password</string>
 </resources>

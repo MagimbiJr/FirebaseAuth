@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139453877809",
+    "project_id": "fir-auth-b77c1",
+    "storage_bucket": "fir-auth-b77c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139453877809:android:df315711d8b718f4ec8f10",
+        "android_client_info": {
+          "package_name": "com.tana.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139453877809-23h9d9i7n6ilv7tjrguv1fn5u8q85ajr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37OzHlWrMllB2O16gIsWWBaCW4Nqq3sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139453877809-23h9d9i7n6ilv7tjrguv1fn5u8q85ajr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
