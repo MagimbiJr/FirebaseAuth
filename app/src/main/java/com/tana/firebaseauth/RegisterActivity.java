@@ -6,7 +6,6 @@ import androidx.appcompat.widget.AppCompatButton;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
@@ -37,7 +36,7 @@ public class RegisterActivity extends AppCompatActivity {
         mConfirmPassword = (TextInputEditText) findViewById(R.id.confirm_password_input);
         mSignUpButton = (AppCompatButton) findViewById(R.id.sign_up_btn);
         mAuth = FirebaseAuth.getInstance();
-        mProgressBar = (ProgressBar) findViewById(R.id.progress_bar);
+        mProgressBar = (ProgressBar) findViewById(R.id.sign_up_progress_bar);
 
         mSignUpButton.setOnClickListener(new View.OnClickListener() {
             @Override
