@@ -72,6 +72,7 @@ public class RegisterActivity extends AppCompatActivity {
                     sendEmailVerification();
                     mAuth.signOut();
                     redirectActivity();
+                    finish();
                     Toast.makeText(getApplicationContext(), "User registered", Toast.LENGTH_SHORT).show();
                     hideProgressBar();
                 }

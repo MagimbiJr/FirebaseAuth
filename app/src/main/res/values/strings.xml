@@ -10,4 +10,6 @@
     <string name="confirm_password">Confirm password</string>
     <string name="resend_verification">Resend Verification link</string>
     <string name="forgot_password">Forgot Password?.</string>
+    <string name="dialog_title">Resend Email verification</string>
+    <string name="sign_out">Sign out</string>
 </resources>
