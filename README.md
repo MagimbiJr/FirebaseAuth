@@ -4,7 +4,7 @@ Simple app that can register a user into Firebase and then sign in the user.
 
 ## Focus of the app
 
-The main focus of this app is a self challenge to create simple app from this [design] (https://dribbble.com/shots/10168862-trip-login-and-registration/attachments/2113903?mode=media) into life.
+The main focus of this app is a self challenge to create simple app from this [design](https://dribbble.com/shots/10168862-trip-login-and-registration/attachments/2113903?mode=media).
 
 ## What's inside the app
 
